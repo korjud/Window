@@ -39,6 +39,7 @@ const modals = () => {
                 document.body.style.overflow = "";
             }
         });
+
     }
 
     function showModalByTime(selector, time) {
